@@ -1,5 +1,5 @@
 ![diseno-programacion-web-5](https://github.com/dkhurlop/dkhurlop/assets/129850727/51078b7d-97bf-464e-b34c-bec4ef0fcef2)
-<h1>Bienvenidos</h1>
+<h1>Bienvenidos!</h1>
 <h3>Soy Denise Khurlopian, una apasionada del código que decidió dar un giro total a su vida y sumergirse en este mundo fascinante.</h3>
 
 # Sobre mi
@@ -13,16 +13,18 @@ Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta 
 
 ---
 
-## Technologies
+## Tecnologías
  <div>
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react logo" margin="0" width="80" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="120" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react logo" margin="0" width="80" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="100" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> 
  <div>      
 
 ---
 
-## Tools
+## Herramientas
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
