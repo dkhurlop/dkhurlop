@@ -5,11 +5,11 @@
 # Sobre mi
 Hoy en día, me dedico a estudiar en un bootcamp de desarrollo Full Stack, donde estoy adquiriendo conocimientos en programación tanto en el frontend como en el backend. Durante mi tiempo en el bootcamp, estoy aprendiendo diversas tecnologías y herramientas para construir aplicaciones web completas.
 
-Además, me estoy desarrollando en la habilidad de resolver cualquier conflicto o desafío que se presente en el camino. Estoy adquiriendo la capacidad de enfrentar y superar obstáculos, investigar y aprender por mi cuenta, y utilizar eficazmente los recursos disponibles para encontrar soluciones efectivas.
+Además, me estoy desarrollando en la habilidad de resolver cualquier conflicto o desafío que se presente en el camino. Estoy adquiriendo la capacidad de enfrentar y superar obstáculos, investigar, aprender por mi cuenta, y utilizar eficazmente los recursos disponibles para encontrar soluciones efectivas.
 
 A medida que avanzo en mi formación, estoy adquiriendo una mentalidad de resolución de problemas y una actitud de aprendizaje constante. Estoy trabajando en mejorar mis habilidades de comunicación y colaboración, así como en desarrollar un enfoque metódico y estructurado para abordar los desafíos técnicos.
 
-Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta me brindan, y estoy comprometida en convertirme en un desarrollador Full Stack altamente competente y capaz de enfrentar cualquier situación que se presente en el mundo de la programación.
+Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta me brindan, y estoy comprometida en convertirme en una desarrolladora Full Stack altamente competente y capaz de enfrentar cualquier situación que se presente en el mundo de la programación.
 
 ---
 
@@ -17,9 +17,9 @@ Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta 
  <div>
   <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react logo" margin="0" width="80" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="100" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react logo" margin="0" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="50" height="40"/> 
  <div>      
 
 ---
@@ -31,7 +31,10 @@ Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta 
 <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="vscode" width="40" heigth="40"/>
 <img src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="trello" width="40" heigth="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" heigth="40"/> </div>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" heigth="40"/> 
+<img src="https://github.com/dkhurlop/dkhurlop/assets/129850727/61c010a5-c13e-45be-b7d1-dde263bddbed alt="github" width="50" heigth="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="80" height="30"/>
+</div>
 
 ---
 
