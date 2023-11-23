@@ -3,13 +3,11 @@
 <h3>Soy Denise Khurlopian, una apasionada del código que decidió dar un giro total a su vida y sumergirse en este mundo fascinante.</h3>
 
 # Sobre mi
-Hoy en día, me dedico a estudiar en un bootcamp de desarrollo Full Stack, donde estoy adquiriendo conocimientos en programación tanto en el frontend como en el backend. Durante mi tiempo en el bootcamp, estoy aprendiendo diversas tecnologías y herramientas para construir aplicaciones web completas.
+Hoy en día, me dedico a perfeccionar mi codigo y estudiar más en detalle. Terminé un bootcamp de desarrollo Full Stack, donde aprendí conocimientos en programación tanto en el frontend, utilizando lenguajes como HTML5, CSS3, JS, con la libreria React, como en el backend, con PHP y el framework Laravel, a su vez, mientras hacia proyectos, usaba metodologías Ágiles, para optimizar tiempos y comunicación con el equipo. En los proyectos tanto individuales, como no, pude implementar git y github para una buena organización. 
 
-Además, me estoy desarrollando en la habilidad de resolver cualquier conflicto o desafío que se presente en el camino. Estoy adquiriendo la capacidad de enfrentar y superar obstáculos, investigar, aprender por mi cuenta, y utilizar eficazmente los recursos disponibles para encontrar soluciones efectivas.
+Además, estoy adquiriendo la capacidad de enfrentar y superar obstáculos, investigar, aprender por mi cuenta, y utilizar eficazmente los recursos disponibles para encontrar soluciones efectivas.
 
-A medida que avanzo en mi formación, estoy adquiriendo una mentalidad de resolución de problemas y una actitud de aprendizaje constante. Estoy trabajando en mejorar mis habilidades de comunicación y colaboración, así como en desarrollar un enfoque metódico y estructurado para abordar los desafíos técnicos.
-
-Estoy agradecida por las oportunidades que el bootcamp y mi enfoque autodidacta me brindan, y estoy comprometida en convertirme en una desarrolladora Full Stack altamente competente y capaz de enfrentar cualquier situación que se presente en el mundo de la programación.
+A medida que avanzo en mi formación, estoy enfocada a una mentalidad de resolución de problemas y una actitud de aprendizaje constante. Trabajando en mejorar mis habilidades de comunicación y colaboración, así como en desarrollar un enfoque metódico y estructurado para abordar los desafíos técnicos.
 
 ---
 
