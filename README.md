@@ -13,11 +13,13 @@ A medida que avanzo en mi formación, estoy enfocada a una mentalidad de resoluc
 
 ## Tecnologías
  <div>
-  <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react logo" margin="0" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="50" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="50" height="40"/> 
+ <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+ <img src="https://www.mailslurp.com/assets/brands/phpunit.png"  alt="php unit test" width="60" heigth="40"/>
  <div>      
 
 ---
@@ -31,7 +33,9 @@ A medida que avanzo en mi formación, estoy enfocada a una mentalidad de resoluc
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" heigth="40"/> 
 <img src="https://github.com/dkhurlop/dkhurlop/assets/129850727/61c010a5-c13e-45be-b7d1-dde263bddbed alt="github" width="50" heigth="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="80" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwind css logo" width="80" height="30"/>
+<img src="https://www.pngall.com/wp-content/uploads/8/phpMyAdmin-PNG-Picture.png" alt="php my admin" width="60" heigth="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 
 ---
